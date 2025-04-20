@@ -37,3 +37,19 @@
 # nodemon - nodemon <file name of server> - will do automatic restart
 
 ## npm ci (clean install) - force version packages of package.json and package-lock.json. Use for production!!! Or clone!
+
+## GIT
+
+## git config --list
+
+## git config --global user.name <user name>
+
+## git config --global user.email <user email>
+
+## git config --global remote.origin.url= <git url of repository>
+
+## git config --global alias.c=commit
+
+## git config --global alias.s=status
+
+## git hist
